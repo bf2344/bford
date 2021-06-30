@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Full-Stack Developer",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "description":"With a vast array of knowledge in many different Front-End and Back-End languages, responsive frameworks, databases, and best practices.",
+    "image":"profilepic.jpeg",
+    "bio":"My name is Brian Ford and I have been a Full-Stack Developer for three years. my objective is to simply be the best developer I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "bf@bford.dev",
     "phone": "561-317-1195",
@@ -16,11 +16,11 @@
       "zip": "80209"
     },
     "website": "http://www.bford.dev",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"#",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/bf2344",
+        "url":"https://facebook.com",
         "className":"fa fa-facebook"
       },
       {
@@ -35,7 +35,7 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com",
         "className":"fa fa-instagram"
       },
       {
@@ -109,10 +109,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Make Or Miss",
+        "category":"Data Viz project using D3 and React. NBA Statistics",
+        "image":"makeormiss.png",
+        "url":"https://salty-coast-38970.herokuapp.com/"
       },
       {
         "title":"Fury Fighting Gear",
